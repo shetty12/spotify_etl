@@ -1,4 +1,4 @@
-https://github.com/shetty12/spotify_etl/edit/main/README.md
+!(https://github.com/shetty12/spotify_etl/blob/main/spotify%20photo.png)
 
 # Spotify_Data_Pipeline
 
